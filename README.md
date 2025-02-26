@@ -1,2 +1,2 @@
 # ZombieGuineaPigsApocalypse
- Adventure game in C#.
+ The adventure game in C#, made with Unity.
